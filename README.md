@@ -1,6 +1,6 @@
 # TodoList
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.0. also clone ToDo-db a fake database which store the data to run this server open db in another termial run json-server --watch db.json
 
 ## Development server
 
